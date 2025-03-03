@@ -9,4 +9,6 @@ O **Clean Code** é fundamental para o desenvolvimento de Software de alta quali
 
 Por que complicar e aumentar custos com códigos confusos e difíceis de entender, quando você pode aprimorar suas habilidades e resolver desafios de forma ágil e eficaz? Descubra como a **Programação Profissional com Clean Code** pode impulsionar sua carreira, ensinando as melhores práticas adotadas pelos programadores de elite, sem abrir mão da excelência!
 
+Todos os exemplos deste curso foram desenvolvidos com o **.NET Core 9.0** (última versão disponível).
+
 
